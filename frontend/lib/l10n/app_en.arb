@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "SkillMap",
+  "registerWorker": "Register as Worker",
+  "adminLogin": "Admin Login",
+  "searchWorkers": "Search workers",
+  "loading": "Loading...",
+  "noWorkersFound": "No workers found",
+  "name": "Name",
+  "skill": "Skill",
+  "village": "Village",
+  "phone": "Phone",
+  "languages": "Languages",
+  "submit": "Submit",
+  "registerSuccess": "Worker registered successfully",
+  "registerError": "Error registering worker",
+  "searchPlaceholder": "Search by name, skill or village",
+  "call": "Call",
+  "requiredField": "This field is required",
+  "workerDetails": "Worker Details"
+}

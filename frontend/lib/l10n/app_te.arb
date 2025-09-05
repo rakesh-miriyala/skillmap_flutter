@@ -1,0 +1,21 @@
+{
+  "@@locale": "te",
+  "appTitle": "స్కిల్ మ్యాప్",
+  "registerWorker": "కార్మికుడిగా నమోదు చేయండి",
+  "adminLogin": "అడ్మిన్ లాగిన్",
+  "searchWorkers": "కార్మికులను వెతకండి",
+  "loading": "లోడ్ అవుతోంది...",
+  "noWorkersFound": "కార్మికులు కనబడలేదు",
+  "name": "పేరు",
+  "skill": "నైపుణ్యం",
+  "village": "గ్రామం",
+  "phone": "ఫోన్",
+  "languages": "భాషలు",
+  "submit": "సమర్పించండి",
+  "registerSuccess": "కార్మికుడు విజయవంతంగా నమోదు అయ్యాడు",
+  "registerError": "నమోదులో లోపం జరిగింది",
+  "searchPlaceholder": "పేరు, నైపుణ్యం లేదా గ్రామం ద్వారా వెతకండి",
+  "call": "కాల్",
+  "requiredField": "ఈ ఫీల్డ్ తప్పనిసరి",
+  "workerDetails": "కార్మికుడి వివరాలు"
+}
