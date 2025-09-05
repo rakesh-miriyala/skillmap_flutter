@@ -41,23 +41,7 @@
 
 ## Folder Structure
 
-SkillMap/
-│
-├── backend/ # Node.js backend
-│ ├── server.js # Express server
-│ ├── package.json
-│ └── ...
-│
-├── frontend/ # Flutter Web frontend
-│ ├── lib/
-│ │ ├── pages/ # All pages (home, register, login, worker details)
-│ │ ├── models/ # Worker model
-│ │ ├── services/ # API service
-│ │ ├── theme/ # App theme
-│ │ └── l10n/ # Localization files
-│ └── pubspec.yaml
-│
-└── README.md # Project documentation
+<img width="553" height="534" alt="image" src="https://github.com/user-attachments/assets/8bce404d-fe29-44b7-b361-fb753fa60623" />
 
 ---
 
@@ -65,56 +49,58 @@ SkillMap/
 
 ### Backend
 1. Navigate to backend folder:
-   ```bash
-   
-   cd backend
-Install dependencies:
+
+cd backend
+
+2. Install dependencies:
 
 npm install
 
-Create .env file for database credentials:
+3. Create .env file for database credentials:
 
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_CONNECTION_STRING=localhost/XE
 
-Start server:
+4. Start server:
 
 node server.js
 
-Navigate to frontend folder:
+Frontend
+
+1. Navigate to frontend folder:
 
 cd frontend
 
-Install dependencies:
+2. Install dependencies:
 
 flutter pub get
 
-Run the web app:
+3. Run the web app:
 
 flutter run -d chrome
 
 Usage
 
-Public users can directly register their details from the home page.
+-Public users can directly register their details from the home page.
 
-Admin users can log in via the admin login page to manage worker records.
+-Admin users can log in via the admin login page to manage worker records.
 
-Switch between English and Telugu using the language toggle in the top-right corner.
+-Switch between English and Telugu using the language toggle in the top-right corner.
 
 Contributing
 
 Contributions are welcome! Please:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch: git checkout -b feature/your-feature.
+2. Create a new branch: git checkout -b feature/your-feature.
 
-Commit your changes: git commit -m "Add some feature".
+3. Commit your changes: git commit -m "Add some feature".
 
-Push to the branch: git push origin feature/your-feature.
+4. Push to the branch: git push origin feature/your-feature.
 
-Create a Pull Request.
+5. Create a Pull Request.
 
 License
 
